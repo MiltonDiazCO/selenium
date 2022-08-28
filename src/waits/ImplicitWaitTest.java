@@ -20,7 +20,7 @@ public class ImplicitWaitTest {
 			driver.get("http://localhost/TestSites/Test Page.html");
 			
 			/*
-			 * Implicit Wait aplica un tiempo de espera maximo para validar si un
+			 * Implicit Wait aplica un tiempo maximo de espera para validar si un
 			 * elemento esta presente, una vez el elemento este presente se
 			 * continua con la ejecucion
 			 * 

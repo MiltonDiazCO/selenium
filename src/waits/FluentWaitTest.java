@@ -29,7 +29,7 @@ public class FluentWaitTest {
 			key.sendKeys(Keys.PAGE_DOWN).perform();
 
 			/*
-			 * Fluent Wait aplica un tiempo de espera maximo para validar si un elemento
+			 * Fluent Wait aplica un tiempo maximo de espera para validar si un elemento
 			 * esta presente, una vez el elemento este presente se continua con la ejecucion
 			 * 
 			 * Fluent Wait aplica unicamente para los elementos seleccionados
