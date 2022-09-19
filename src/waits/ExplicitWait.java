@@ -19,7 +19,7 @@ public class ExplicitWait {
 
 		try {
 
-			driver.get("http://localhost/TestSites/Test%20Page.html");
+			driver.get("https://pageresources.000webhostapp.com/test_pages/page_one.html");
 
 			driver.manage().window().maximize();
 

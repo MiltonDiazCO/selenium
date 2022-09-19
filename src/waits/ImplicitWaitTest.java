@@ -17,7 +17,7 @@ public class ImplicitWaitTest {
 		
 		try {
 			
-			driver.get("http://localhost/TestSites/Test Page.html");
+			driver.get("https://pageresources.000webhostapp.com/test_pages/page_one.html");
 			
 			/*
 			 * Implicit Wait aplica un tiempo maximo de espera para validar si un
