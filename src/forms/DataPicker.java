@@ -1,4 +1,4 @@
-package formularios;
+package forms;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
